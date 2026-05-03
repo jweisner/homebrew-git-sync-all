@@ -1,8 +1,8 @@
 class GitSync < Formula
   desc "Scan a directory tree for git repos and keep them in sync"
   homepage "https://github.com/jweisner/git-sync"
-  url "https://github.com/jweisner/git-sync/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "3b3dd384f20314bb323a8945feb9f717553c87e2b9274a5be1cd7b3bce020790"
+  url "https://github.com/jweisner/git-sync/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "61b207bb0a85c7a9bf89571fdb75bf1f647ae47be94ab54c829c831b118539f9"
   license "Apache-2.0"
 
   def install
